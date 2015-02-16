@@ -35,7 +35,7 @@
   "dependencies": {
     "terraform": "git+https://github.com/priezz/terraform.git",
     "commander": ">=2.0.0",
-    "connect": ">=2.9.0",
+    "connect": "<3.0.0",
     "fs-extra": ">=0.6.4",
     "async": ">=0.2.9",
     "mime": ">=1.2.11",
