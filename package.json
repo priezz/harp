@@ -33,7 +33,7 @@
     "url": "https://github.com/sintaxi/harp.git"
   },
   "dependencies": {
-    "https://github.com/priezz/terraform.git": ">=0.10.3",
+    "terraform": "https://github.com/priezz/terraform.git",
     "commander": ">=2.0.0",
     "connect": ">=2.9.0",
     "fs-extra": ">=0.6.4",
