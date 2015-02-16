@@ -43,7 +43,7 @@ Authored and maintained by [@sintaxi](http://twitter.com/sintaxi). Made for the 
 
 ### Installation
 
-    sudo npm install -g harp
+    sudo npm install -g git+https://github.com/priezz/harp.git
 
 ### Quick Start
 
